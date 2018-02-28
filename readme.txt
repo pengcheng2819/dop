@@ -10,3 +10,6 @@ Git has a mutable index called stage.
 新增了第一行
 增加了第三行
 增加了第四行
+
+
+增加了一个分支
